@@ -1,0 +1,16 @@
+= Jubatus client for Ruby
+
+== Developement
+
+- install dependency modules
+
+    $ bundle install
+
+- run test
+
+    $ bundle exec rake test
+
+Web site::  http://jubat.us
+Source repository:: https://github.com/pfi/jubatus-ruby-client
+Copyright:: (c) 2011 Preferred Infrastructure
+License:: New BSD License
